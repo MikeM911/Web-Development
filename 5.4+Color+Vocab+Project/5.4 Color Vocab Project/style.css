@@ -3,7 +3,7 @@
 }
 
 h1, h2{
-    color:white
+    color: white;
 }
 
 #red{
@@ -19,7 +19,7 @@ h1, h2{
 }
 
 #green{
-    color: green;
+    color: green
 }
 
 #yellow{
@@ -31,6 +31,6 @@ h1, h2{
 }
 
 img{
-    width: 200px;
     height: 200px;
+    width: 200px;
 }
